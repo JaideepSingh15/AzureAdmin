@@ -1,0 +1,10 @@
+What are cloud Made of?
+Resources: An Entities managed by Azure like VM, Vnet, Storage account etc. 
+
+Resource Groups: Logical Container for grouping Resources. Based on Lifecycle and security
+
+Azure Subscription: Logical Construct that group together resources grup and associated Resources
+
+
+
+
